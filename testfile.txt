@@ -1,2 +1,3 @@
 testing git merge
 adding newline to test rebase feature
+adding a new line lets see what happens.
