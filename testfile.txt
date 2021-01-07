@@ -1,1 +1,2 @@
 testing git merge
+adding newline to test rebase feature
